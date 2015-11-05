@@ -1,2 +1,2 @@
 # TestRepo
-Initial Test Repository for Training, etc.
+This Repository is just meant for screwing around and learning a little about this GitHub thing.
